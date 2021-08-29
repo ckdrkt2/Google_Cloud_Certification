@@ -37,3 +37,4 @@ Google's high-quality private network, petabit bisectional bandwidth, and Edge p
 Google handles many of the lower layers of security like, the physical security of the hardware and its premises, the encryption of data on disk, and the integrity of the physical network. Because of its scale, Google can deliver a higher level of security at these layers, than most customers could afford to on their own. 
 The upper layers of the security stack, including the securing of data, Google provides tools like Cloud IAM to help you implement the policies that you define at these layers.
 
+![image](https://user-images.githubusercontent.com/72551588/131237517-cfb21de2-b9bd-4d55-ad28-c367916e4700.png)
