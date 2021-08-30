@@ -38,3 +38,11 @@ Google handles many of the lower layers of security like, the physical security 
 The upper layers of the security stack, including the securing of data, Google provides tools like Cloud IAM to help you implement the policies that you define at these layers.
 
 ![image](https://user-images.githubusercontent.com/72551588/131237517-cfb21de2-b9bd-4d55-ad28-c367916e4700.png)
+
+![image](https://user-images.githubusercontent.com/72551588/131321613-e63828f2-ea19-4354-9128-561220bddd43.png)
+
+![image](https://user-images.githubusercontent.com/72551588/131321691-fa4af37a-fce1-4228-be9b-57fb94e0b289.png)
+
+![image](https://user-images.githubusercontent.com/72551588/131322577-506c3650-67f8-4774-8e63-d5f8ee10f30c.png)
+
+![image](https://user-images.githubusercontent.com/72551588/131322669-673d15e2-c443-40d1-a7a5-426ed0a2de49.png)
