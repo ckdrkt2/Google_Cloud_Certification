@@ -6,7 +6,7 @@
 - Big Data and ML Products: Developed a top layer of big data and ML products to abstract away a lot of the hard work of managing and scaling that infrastructure for you.
 
 
-![image](https://user-images.githubusercontent.com/72551588/130634732-aee21f37-be78-41ac-be78-12897a319348.png)
+![image](https://user-images.githubusercontent.com/72551588/130634732-aee21f37-be78-41ac-be78-12897a319348.png) 
 - Moore's Law was a trend in computing hardware, but in the past few years growth has slowed dramatically as manufacturers run up against fundamental physics limits.
 - Google solved this problem using ML designed new types of hardware specifically for.
 
